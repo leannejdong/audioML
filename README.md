@@ -1,5 +1,7 @@
 # audioML
 
+Simply `pip install -r requirements.txt` to recreate the python virtual environment.
+
 We want to generate synthetic audio data for the purpose of training specific effects.
 
 Generating synthetic audio data for training specific effects involves using algorithms or models to simulate the desired audio characteristics. Here are a few examples of how we could generate synthetic audio data for training different effects:
